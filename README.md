@@ -1,2 +1,4 @@
 # alejandro8
-https://github.com/aelorza8/alejandro8.git
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aelorza8/alejandro8.git/HEAD)
+.. image:: https://mybinder.org/badge_logo.svg
+ :target: https://mybinder.org/v2/gh/aelorza8/alejandro8.git/HEAD
